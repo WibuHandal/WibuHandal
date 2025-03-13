@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WibuHandal
-- 👀 I’m interested in 3d modeling,2d art, adn game developing
+- 👀 I’m interested in 3d modeling,2d art, and game developing
 - 🌱 I’m currently learning c++ for unity 3d
 - ⚡ Fun fact: im a weeb 
 
